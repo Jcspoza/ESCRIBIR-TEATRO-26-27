@@ -16,8 +16,6 @@ El martes 20 de Octubre la reunión es para TOD@S los componentes del grupo de 1
 
 ### Ejercicio : Adaptar / hacer una versión / del texto " Enriqueta sí, Enriqueta no" de Jorge Llopis
 
-
-
 **PROPUESTA** : TRABAJO DE ADAPTACIÓN O VERSIÓN DE UN TEXTO TEATRAL
 
 1.- Esta obra se estrenó en 1954. Adaptar la historia a época actual.
@@ -32,9 +30,7 @@ El martes 20 de Octubre la reunión es para TOD@S los componentes del grupo de 1
 
 6-El **texto tendrá un máximo de cinco paginas**, con una referencia de tamaño de **letra 14.**
 
-
-
-Texto original [Enriqueta sí, Enriqueta no de Jorge Llopis en word](.\doc\ENRIQUETA_Jorge_Llopis.docx)
+Texto original [Enriqueta sí, Enriqueta no de Jorge Llopis en word](./doc/ENRIQUETA_Jorge_Llopis.docx)
 
 Video origina de [Enriqueta sí, Enriqueta no" de Jorge Llopis](https://youtu.be/M1GUZmNYksY?is=4P97tEaxwPBcZKDf)
 
@@ -50,7 +46,7 @@ Video: [Estudio 1 El avaro - YouTube](https://youtube.com/watch?v=PUcyqhF1UYc&fe
 
 #### EL CHICO DE LA ÚLTIMA FILA " de Juan Mayorga.
 
-Texto [EL CHICO DE LA ÚLTIMA FILA de Juan Mayorga](.\doc\juan-mayorga-el-chico-de-la-ultima-fila.pdf)
+Texto [EL CHICO DE LA ÚLTIMA FILA de Juan Mayorga](./doc/juan-mayorga-el-chico-de-la-ultima-fila.pdf)
 
 Video (Es un montaje de la Real Escuela Superior de Arte Dramático / RESAD) :
 
