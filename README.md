@@ -2,6 +2,14 @@
 
 Taller de escritura Teatral 2026 - 2027 en el CMM Benito Martin Lozano 
 
+## Personas que componen el Taller
+
+<u>Carlos Mochales</u> : profesor
+
+**Alumnos 2do año** : Raúl Escudero / Rigoberto/ Ana/ Carlos Taberneiro/ José Carlos Santamaria
+
+**Alumnos 1er año**: Teresa/ Javier Alfaya
+
 ## Novedades y Noticias (ultima actualización 7-10-2026)
 
 Os recuerdo que el MARTES 13 de octubre la CITACIÓN es la siguiente: 
