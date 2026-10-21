@@ -48,7 +48,7 @@ Nota : los textos en word no se pueden abrir en el navegador, pero se pueden des
 
 Os recomiendo que visionéis la obra completa. Pero lo que tenéis que adaptar es hasta el minuto 11:56 .
 
-Texto completo Enriqueta sí, Enriqueta no" de Jorge Llopis en [pdf](doc/.Enriqueta_Si_Enriqueta_No_completo.pdf) y [word](doc/.Enriqueta_Si_Enriqueta_No_completo.docx)
+Texto completo Enriqueta sí, Enriqueta no" de Jorge Llopis en [pdf](.doc/Enriqueta_Si_Enriqueta_No_completo.pdf) y [word](.doc/Enriqueta_Si_Enriqueta_No_completo.docx)
 
 ### Textos teatrales para leer y videos para visionar
 
