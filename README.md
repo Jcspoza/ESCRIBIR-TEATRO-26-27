@@ -8,7 +8,7 @@ Taller de escritura Teatral 2026 - 2027 en el CMM Benito Martin Lozano
 
 **Alumnos 2do año** : Raúl Escudero / Rigoberto/ Ana/ Carlos Taberneiro/ José Carlos Santamaria
 
-**Alumnos 1er año**: Teresa/ Javier Alfaya
+**Alumnos 1er año**: Teresa/ Javier Alfaya / Anabel
 
 ## Novedades y Noticias (ultima actualización 7-10-2026)
 
@@ -44,9 +44,11 @@ El martes 20 de Octubre la reunión es para TOD@S los componentes del grupo de 1
 
 Nota : los textos en word no se pueden abrir en el navegador, pero se pueden descargar
 
-* Video origina de [Enriqueta sí, Enriqueta no" de Jorge Llopis](https://youtu.be/M1GUZmNYksY?is=4P97tEaxwPBcZKDf)
+* Video original de [Enriqueta sí, Enriqueta no" de Jorge Llopis obra completa](https://youtu.be/M1GUZmNYksY?is=4P97tEaxwPBcZKDf)
 
 Os recomiendo que visionéis la obra completa. Pero lo que tenéis que adaptar es hasta el minuto 11:56 .
+
+Texto completo Enriqueta sí, Enriqueta no" de Jorge Llopis en [pdf](doc/.Enriqueta_Si_Enriqueta_No_completo.pdf) y [word](doc/.Enriqueta_Si_Enriqueta_No_completo.docx)
 
 ### Textos teatrales para leer y videos para visionar
 
@@ -66,4 +68,4 @@ Os recomiendo que visionéis la obra completa. Pero lo que tenéis que adaptar e
 
 ---
 
-CONTINUARA ...
+CONTINUARA ... 
