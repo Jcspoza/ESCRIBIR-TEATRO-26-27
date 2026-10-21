@@ -28,7 +28,11 @@ Durante el curso se irá haciendo poco a poco un texto teatral de una extensión
 
 ## Novedades y Noticias (ultima actualización 20-10-2026)
 
-El martes 20 de Octubre la reunión es para TOD@S los componentes del grupo de 17 h a 19 h .
+Recordad que el MARTES 27 quedamos : 
+☆De 17 h a 18 h (Ana, Raúl, José Carlos y Rigoberto ) 
+☆ De 18h a 19 h ( Anabel, Teresa y Javier)
+
+Nos vemos TODOS el MARTES 3 de NOVIEMBRE incluyendo a Carlos Taberneiro.
 
 ---
 
