@@ -10,21 +10,47 @@ Taller de escritura Teatral 2026 - 2027 en el CMM Benito Martin Lozano
 
 **Alumnos 1er año**: Teresa/ Javier Alfaya / Anabel
 
-## Novedades y Noticias (ultima actualización 7-10-2026)
+## Objetivos Globales del Curso 2026 2027
 
-Os recuerdo que el MARTES 13 de octubre la CITACIÓN es la siguiente: 
+### 1- Texto de duración unos 8 minutos para lectura publica
 
-* De 17 h a 18 h : Ana, José Carlos, Raúl  y Rigoberto
+Escribir un texto que en lectura publica tenga una duración de unos 8 minutos = aproximadamente a **1000 palabras** ( velocidad de 130 palabras por minuto), incluyendo acotaciones, que son aproximadamente de **5 paginas** en tamaño 14, con márgenes e interlineado típicos
 
-* De 18 h a 19 h : Javier.
+**Preferiblemente el texto debe tener nudo y desenlace.** El texto puede ser el resultado de un ejercicio de los que se solicitarán durante el curso.
+
+La fecha de lectura esta por determinar, pero seria aproximadamente a principios de Mayo de 2027 en la biblioteca Vargas Llosa. Con lo que el **texto deberá estar CERRADO para principios de abril 2027**, con objeto de ensayar la lectura, definir orden, acopiar imágenes o músicas, hacer copias, etc.
+
+### 2-Texto de 45 minutos a 1 hora como trabajo final de curso
+
+Durante el curso se irá haciendo poco a poco un texto teatral de una extensión de entre 30 a 40 paginas ( 45 min a 60min , considerando 1.5 min x pagina).
+
+~~PENDIENTE DE COMPLETAR~~
+
+## Novedades y Noticias (ultima actualización 20-10-2026)
 
 El martes 20 de Octubre la reunión es para TOD@S los componentes del grupo de 17 h a 19 h .
 
 ---
 
+## Resumen de clase del 20 - 10 - 2026
+
+1. Introducción de nuevos alumnos
+
+2. Se explicaron los Objetivos generales del curso ( ver arriba)
+
+3. Se planteo un ejercicio nuevo: "El armario de Moliere" ver detalle a continuación
+
+4. Se revisaron trabajos del ejercicio de adaptación de las primeras escenas de  "Enriqueta ..":  ver resumen de la clase del día 7 oct
+
+### Ejercicio: El armario de Moliere - ~~BORRADOR~~
+
+Del texto entregado en clase "El armario de Moliere", escoger 2 personajes de los listados de arquetipos y secundarios, y **componer una trama con dos personajes A y B**, que pueden mencionar a un tercero C ( que no aparece). **La trama debe contener un conflicto y este ha de resolverse en el texto**. El conflicto no tiene que ser de gran entidad: puede ser algo simple como que A quiere que B le cuente un secreto de C.
+
+Texto "el armario de Moliere PENDIENTE"
+
 ## Resumen de clase del 7 - 10 - 2026
 
-### Ejercicio : Adaptar / hacer una versión / del texto " Enriqueta sí, Enriqueta no" de Jorge Llopis
+### Ejercicio: Adaptar / hacer una versión / del texto " Enriqueta sí, Enriqueta no" de Jorge Llopis
 
 **PROPUESTA** : TRABAJO DE ADAPTACIÓN O VERSIÓN DE UN TEXTO TEATRAL
 
