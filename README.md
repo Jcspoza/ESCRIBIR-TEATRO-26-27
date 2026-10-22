@@ -58,7 +58,6 @@ En la clase del día 20 de octubre, se planteo un **ejercicio nuevo**: "El armar
 
 ---
 
-
 ## Resumen de clase del 7 - 10 - 2026
 
 ### Ejercicio: Adaptar / hacer una versión / del texto " Enriqueta sí, Enriqueta no" de Jorge Llopis, propuesto 7oct -> 20oct
