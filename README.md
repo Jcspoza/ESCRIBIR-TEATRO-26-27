@@ -43,8 +43,6 @@ Nos vemos TODOS el MARTES 3 de NOVIEMBRE incluyendo a Carlos Taberneiro.
 2. Se explicaron los Objetivos generales del curso ( ver arriba)
 
 3. Se planteo un **ejercicio nuevo**: "El armario de Moliere" ver detalle a continuación
-   
-   ==> La [propuesta de ejercicio esta detallada en este documento](./doc/Propuesta_El_armario_de_Moliere20261020.pdf)
 
 4. Se revisaron trabajos del ejercicio de adaptación de las primeras escenas de  "Enriqueta ..":  ver resumen de la clase del día 7 oct
 
