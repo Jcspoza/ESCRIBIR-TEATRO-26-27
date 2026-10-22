@@ -42,19 +42,25 @@ Nos vemos TODOS el MARTES 3 de NOVIEMBRE incluyendo a Carlos Taberneiro.
 
 2. Se explicaron los Objetivos generales del curso ( ver arriba)
 
-3. Se planteo un ejercicio nuevo: "El armario de Moliere" ver detalle a continuación
+3. Se planteo un **ejercicio nuevo**: "El armario de Moliere" ver detalle a continuación
+   
+   ==> La [propuesta de ejercicio esta detallada en este documento](./doc/Propuesta_El_armario_de_Moliere20261020.pdf)
 
 4. Se revisaron trabajos del ejercicio de adaptación de las primeras escenas de  "Enriqueta ..":  ver resumen de la clase del día 7 oct
 
-### Ejercicio: El armario de Moliere - ~~BORRADOR~~
+### Ejercicio: El armario de Moliere, propuesto 20oct -> 3 nov
 
-Del texto entregado en clase "El armario de Moliere", escoger 2 personajes de los listados de arquetipos y secundarios, y **componer una trama con dos personajes A y B**, que pueden mencionar a un tercero C ( que no aparece). **La trama debe contener un conflicto y este ha de resolverse en el texto**. El conflicto no tiene que ser de gran entidad: puede ser algo simple como que A quiere que B le cuente un secreto de C.
+En la clase del día 20 de octubre, se planteo un **ejercicio nuevo**: "El armario de Moliere" ver detalle a continuación
 
-Texto "el armario de Moliere PENDIENTE"
+==> La [propuesta de ejercicio esta detallada en este documento](./doc/Propuesta_El_armario_de_Moliere20261020.pdf)
+
+- El documento ["El armario de Moliere" se puede consultar aqui](./doc/El_armario_de_Moliere20261020.pdf)
+
+---
 
 ## Resumen de clase del 7 - 10 - 2026
 
-### Ejercicio: Adaptar / hacer una versión / del texto " Enriqueta sí, Enriqueta no" de Jorge Llopis
+### Ejercicio: Adaptar / hacer una versión / del texto " Enriqueta sí, Enriqueta no" de Jorge Llopis, propuesto 7oct -> 20oct
 
 **PROPUESTA** : TRABAJO DE ADAPTACIÓN O VERSIÓN DE UN TEXTO TEATRAL
 
