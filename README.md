@@ -16,7 +16,15 @@ Taller de escritura Teatral 2026 - 2027 en el CMM Benito Martin Lozano
 
 Escribir un texto que en lectura publica tenga una duración de unos 8 minutos = aproximadamente a **1000 palabras** ( velocidad de 130 palabras por minuto), incluyendo acotaciones, que son aproximadamente de **5 paginas** en tamaño 14, con márgenes e interlineado típicos
 
-**Preferiblemente el texto debe tener nudo y desenlace.** El texto puede ser el resultado de un ejercicio de los que se solicitarán durante el curso.
+**El texto debe contener una trama con**:
+
+* **Exposición**
+
+* **Nudo y**
+
+* **Desenlace**
+
+El texto puede ser el resultado de un ejercicio de los que se solicitarán durante el curso.
 
 La fecha de lectura esta por determinar, pero seria aproximadamente a principios de Mayo de 2027 en la biblioteca Vargas Llosa. Con lo que el **texto deberá estar CERRADO para principios de abril 2027**, con objeto de ensayar la lectura, definir orden, acopiar imágenes o músicas, hacer copias, etc.
 
