@@ -26,17 +26,13 @@ Durante el curso se irá haciendo poco a poco un texto teatral de una extensión
 
 ~~PENDIENTE DE COMPLETAR~~
 
-## Novedades y Noticias (ultima actualización 22-10-2026)
+## Novedades y Noticias (ultima actualización 11-11-2026)
 
-Recordad que el MARTES 27 quedamos : 
-☆De 17 h a 18 h (Ana, Raúl, José Carlos y Rigoberto ) 
-☆ De 18h a 19 h ( Anabel, Teresa y Javier)
+De Carlos Mochales: Os recuerdo que el próximo **MARTES 17 de noviembre** hemos quedado : 
+● De 17 h  a 18 h  ( Ana, Raúl, José Carlos y Rigoberto) 
+● De 18 h a 19 h ( Anabel, Teresa y Javier)
 
-
-
-Carlos Mochales: **EL MARTES 3 DE NOVIEMBRE NO HABRÁ REUNIÓN del Taller de Escritura Teatral**. Nos invitan a ver la premier de una peli con intervención del Director
-
-El próximo 3 de noviembre a las 18:00h nos invitan al cine a ver la proyección "María, la bien pagá", sobre la vida de la actriz María Isbert. Posteriormente habrá un diálogo con el director. La proyección se realizará en la sala 3 del Cine Embajadores (Glorieta de Santa María de la Cabeza, 5). Es imprescindible confirmar asistencia.
+El **MARTES 24 DE NOVIEMBRE de 17 h a 19 h,  la cita es para TODO el grupo**:  Ana, Anabel, Teresa, Raúl, José Carlos, Rigoberto, Carlos T. y Javier.
 
 ---
 
